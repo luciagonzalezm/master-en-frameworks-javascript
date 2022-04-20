@@ -1,5 +1,5 @@
 # Máster-en-Frameworks-JavaScript
-Curso realizado del 23 de Septiembre de 2021 al 04 de Octubre de 2021 durante el período de FCT. Dicho curso se llevó a cabo desde la plataforma **Udemy**, cuenta con una duración de 26,5 horas y está impartido por Víctor Robles.
+Curso realizado del 23 de Septiembre de 2021 al 04 de Octubre de 2021 durante el período de FCT. Dicho curso se llevó a cabo desde la plataforma **Udemy**, cuenta con una duración de 26,5 horas y está impartido por **Víctor Robles**.
 Este máster se centra en enseñar todo lo necesario para dominar **Angular**, **React** y **Vue**, los frameworks más populares, con más demanda laboral y más proyección de futuro.
 
 Los conocimientos adquiridos en el mismo son:
